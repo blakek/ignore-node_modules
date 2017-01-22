@@ -22,8 +22,8 @@ Stop indexing all `node_modules` directories found within another directory (rec
 
 ## Install
 
-1. Either [clone this repo](https://help.github.com/articles/cloning-a-repository/) or [download the zip file](archive/master.zip)
-2. Add this to your $PATH
+1. Either [clone this repo](https://help.github.com/articles/cloning-a-repository/) or [download the zip file](https://github.com/blakek/ignore-node_modules/archive/master.zip)
+2. Add `ignore-node_modules` to your $PATH
 
 ## License
 
