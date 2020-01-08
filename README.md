@@ -22,9 +22,9 @@ Stop indexing all `node_modules` directories found within another directory (rec
 
 ## Install
 
-You can install using [Homebrew](https://brew.sh/) or manually:
+You can install using [Homebrew](https://brew.sh/) or manually build from source:
 
-**With Homebrew:**
+### Install with Homebrew
 
 Running this in your terminal adds [my tap](https://github.com/blakek/homebrew-blakek) and installs the package:
 
@@ -32,7 +32,7 @@ Running this in your terminal adds [my tap](https://github.com/blakek/homebrew-b
 brew tap blakek/blakek && brew install blakek/blakek/ignore-node_modules
 ```
 
-**Manual installation:**
+### Build from Source
 
 1. Either [clone this repo](https://help.github.com/articles/cloning-a-repository/) or [download the zip file](https://github.com/blakek/ignore-node_modules/archive/master.zip)
 2. Add `ignore-node_modules` to your \$PATH (e.g. `/usr/local/bin`)
