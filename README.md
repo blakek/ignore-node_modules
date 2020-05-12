@@ -8,7 +8,7 @@ This tells Spotlight to not index `node_modules` directories. It does this by si
 
 ## Usage
 
-Stop indexing all `node_modules` directories in your \$HOME directory (recursively):
+Stop indexing all `node_modules` directories in your current directory (recursively):
 
 ```bash
 ./ignore-node_modules
@@ -17,7 +17,7 @@ Stop indexing all `node_modules` directories in your \$HOME directory (recursive
 Stop indexing all `node_modules` directories found within another directory (recursively):
 
 ```bash
-./ignore-node_modules ~/path/to/folder
+./ignore-node_modules /path/to/folder
 ```
 
 ## Install
